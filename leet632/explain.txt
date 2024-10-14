@@ -2,4 +2,4 @@ link : https://leetcode.com/problems/smallest-range-covering-elements-from-k-lis
 
 Category : MinHeap
 
-Used C++ Technics : Class declaration
+Used C++ Technics : Class declaration, Compare Operator, priority queue
