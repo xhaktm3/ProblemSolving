@@ -1,5 +1,5 @@
-link : https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/?envType=daily-question&envId=2024-10-13
+link :
 
-Category : MinHeap
+Category :
 
-Used C++ Technics : Class declaration
+Used C++ Technics :
