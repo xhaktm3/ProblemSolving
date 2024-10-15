@@ -1,0 +1,5 @@
+link:https://www.biko.kr/course/776/class/1359/2345/24176
+
+Category : Dp, statistic, modular
+
+Used C++ Technics : QuickBy(빠른제곱), 정수 나눗셈 주의, 큰 정수 연산
