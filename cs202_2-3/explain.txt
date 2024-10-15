@@ -1,0 +1,5 @@
+link : https://www.biko.kr/course/776/class/1359/2345/24174
+
+Category : Dual DP, write in paper
+
+Used C++ Technics : Global function declaration
