@@ -1,0 +1,5 @@
+link : https://www.biko.kr/course/776/class/1359/1940/20639
+
+Category : Reccurent, Implemetation
+
+Used C++ Technics : vector declare
